@@ -85,8 +85,8 @@ author:
   bio              : "I'm a determined and innovative computer science student with a strong passion for programming and game development, eager to use his skills to create immersive and memorable games that entertain and inspire players."
   location         : "Sant Adrià de Besòs, Barcelona, Spain."
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "rgtumbra@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,15 +99,15 @@ author:
   github           : "umbrita"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/zzzumbrita/"
+  instagram        : "zzzumbrita/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/id/zzzumbra/"
+  steam            : "zzzumbra/"
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
