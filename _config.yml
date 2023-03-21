@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Roger Garcia"
 title_separator          : "-"
-name                     : &name "Roger Garcia Tarragón"
+name                     : &name "Roger Garcia"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
